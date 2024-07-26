@@ -4,3 +4,13 @@
 
 /MsgSrv/obj
 /MsgSrv/bin/Debug/net8.0
+/.vs/Vesti/v17
+/.vs/Vesti/FileContentIndex
+/Vesti.ApiService/bin/Debug/net8.0
+/Vesti.ApiService/obj
+/Vesti.AppHost/bin/Debug/net8.0
+/Vesti.AppHost/obj
+/Vesti.ServiceDefaults/obj
+/Vesti.ServiceDefaults/bin/Debug/net8.0
+/Vesti.Web/bin/Debug/net8.0
+/Vesti.Web/obj
