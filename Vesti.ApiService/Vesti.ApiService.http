@@ -1,0 +1,5 @@
+﻿@Vesti.ApiService_HostAddress = https://localhost:7498
+
+GET {{Vesti.ApiService_HostAddress}}/weatherforecast
+
+###

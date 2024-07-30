@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Vesti.ApiService\Vesti.ApiService.csproj" />
+    <ProjectReference Include="..\Vesti.Web2\Vesti.Web2.csproj" />
     <ProjectReference Include="..\Vesti.Web\Vesti.Web.csproj" />
   </ItemGroup>
 
