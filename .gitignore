@@ -14,3 +14,6 @@
 /Vesti.ServiceDefaults/bin/Debug/net8.0
 /Vesti.Web/bin/Debug/net8.0
 /Vesti.Web/obj
+/ApiMsg/obj
+/Vesti.Web2/bin/Debug/net8.0
+/Vesti.Web2/obj
